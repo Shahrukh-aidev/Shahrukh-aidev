@@ -1,3 +1,4 @@
+at > /mnt/user-data/outputs/GITHUB_PROFILE_README.md << 'ENDOFFILE'
 <div align="center">
 
 # Shahrukh Baloch
@@ -5,7 +6,7 @@
 
 *"I don't just study AI — I ship it."*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=RAG+%26+LLM+Engineer;IoT+%2B+AI+Systems+Builder;Full-Stack+Developer;Microsoft+Learn+Student+Ambassador)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=RAG+%26+LLM+Engineer;Full-Stack+AI+Platform+Builder;IoT+%2B+AI+Systems+Builder;Microsoft+Learn+Student+Ambassador)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,9 +20,10 @@
 ![FlyRank](https://img.shields.io/badge/FlyRank-ML_Track_2026-8B5CF6?style=flat-square)
 ![Status](https://img.shields.io/badge/🟢_Open_To-Remote_Internships-22c55e?style=flat-square)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahrukh-baloch-bb73a632a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahrukh-baloch/)
 [![Email](https://img.shields.io/badge/Email-shahrukhbaloch648@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shahrukhbaloch648@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Shahrukh--aidev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shahrukh-aidev)
+[![Fiverr](https://img.shields.io/badge/Fiverr-jsharukh123-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/users/jsharukh123/)
 
 </div>
 
@@ -31,7 +33,7 @@
 
 I'm a **3rd-year CS student at Sukkur IBA University** and a **Microsoft Learn Student Ambassador** building production-grade AI systems — not just notebook experiments.
 
-My work spans **RAG pipelines**, **IoT + AI integration**, and **full-stack platforms** — each project deployed, documented, and built to solve real problems for real people in Pakistan and beyond.
+My work spans **RAG pipelines**, **full-stack AI platforms**, **IoT + AI integration** — each project deployed, documented, and built to solve real problems for real people in Pakistan and beyond.
 
 > Currently accepted into **FlyRank AI's ML Track (July 2026 cohort)** and actively building toward advanced ML research.
 
@@ -64,6 +66,32 @@ My work spans **RAG pipelines**, **IoT + AI integration**, and **full-stack plat
 | Anti-hallucination | Custom prompt engineering + source linking |
 
 → **[View Repository](https://github.com/Shahrukh-aidev)**
+
+---
+
+### 💼 TalentFlow — Full-Stack AI Recruitment Platform
+> *End-to-end AI hiring — from resume upload to candidate shortlisting*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Talent--Flow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shahrukh-aidev/Talent-Flow)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/Shahrukh-aidev/Talent-Flow)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/Shahrukh-aidev/Talent-Flow)
+[![Groq](https://img.shields.io/badge/Groq-AI_Core-F55036?style=flat-square)](https://github.com/Shahrukh-aidev/Talent-Flow)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/Shahrukh-aidev/Talent-Flow)
+
+**The problem:** Recruiters waste hours manually screening resumes. Job seekers apply blindly with no idea how well they match.
+
+**What I built:** A dual-role AI recruitment platform for both **recruiters** and **job seekers** — with NLP resume parsing, AI match scoring, explainable results, and a Groq-powered resume enhancer.
+
+| Feature | What it does |
+|---------|-------------|
+| NLP Resume Parser | Extracts 13+ skills from uploaded PDF automatically |
+| AI Match Scoring | Ranks candidates with % match + skills gap breakdown |
+| Groq Resume Enhancer | Rewrites summary, adds ATS keywords — 80% → 95% strength |
+| AI Job Suggestions | Matches your resume against all open jobs with explanation |
+| Why This Score? | Explains every match score with learning roadmap to improve |
+| Recruiter Dashboard | Post jobs, view applicants, shortlist/accept/reject in one place |
+
+→ **[View Repository](https://github.com/Shahrukh-aidev/Talent-Flow)**
 
 ---
 
@@ -199,3 +227,4 @@ Java desktop app + Flask/React web platform deployed on Railway + Vercel.
 [shahrukhbaloch648@gmail.com](mailto:shahrukhbaloch648@gmail.com)
 
 </div>
+ENDOFFILE
