@@ -65,7 +65,7 @@ My work spans **RAG pipelines**, **full-stack AI platforms**, **IoT + AI integra
 | UI | Gradio on HuggingFace Spaces |
 | Anti-hallucination | Custom prompt engineering + source linking |
 
-→ **[View Repository](https://github.com/Shahrukh-aidev)**
+→ **[View Repository](https://github.com/Shahrukh-aidev/Adovacate-AI)**
 
 ---
 
