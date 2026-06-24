@@ -1,4 +1,4 @@
-at > /mnt/user-data/outputs/GITHUB_PROFILE_README.md << 'ENDOFFILE'
+
 <div align="center">
 
 # Shahrukh Baloch
@@ -227,4 +227,4 @@ Java desktop app + Flask/React web platform deployed on Railway + Vercel.
 [shahrukhbaloch648@gmail.com](mailto:shahrukhbaloch648@gmail.com)
 
 </div>
-ENDOFFILE
+
